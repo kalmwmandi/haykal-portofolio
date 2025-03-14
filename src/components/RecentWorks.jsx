@@ -5,19 +5,19 @@ const projects = [
   {
     id: 1,
     title: 'E-Rapor School',
-    description: 'E-Rapor is a web-based system for digital student report management and grading.',
+    description: 'E-Rapor adalah sistem berbasis web untuk manajemen dan penilaian laporan siswa digital.',
     image: '/images/projects/e-rapor.png',
   },
   {
     id: 2,
     title: 'Survey School',
-    description: 'A school survey application collects and analyzes student and teacher feedback on academic and school experiences.',
+    description: 'Aplikasi survei sekolah mengumpulkan dan menganalisis umpan balik siswa dan guru tentang pengalaman akademis dan sekolah.',
     image: '/images/projects/survey.png',
   },
   {
     id: 3,
     title: 'Role Classification',
-    description: 'An app that assigns internship roles based on students report card grades.',
+    description: 'Sebuah aplikasi yang menetapkan peran magang berdasarkan nilai rapor siswa.',
     image: '/images/projects/class.png',
   },
 ];

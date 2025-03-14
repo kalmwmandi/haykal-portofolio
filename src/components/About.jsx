@@ -31,7 +31,7 @@ const About = () => {
               </div>
               
               <p className="text-lg sm:text-xl leading-relaxed mb-6 sm:mb-8">
-                Passionate about creating websites with beautiful interfaces. I have years of experience in Web Development with several projects completed.
+              Bersemangat dalam membuat situs web dengan antarmuka yang menarik. Saya memiliki pengalaman bertahun-tahun dalam Pengembangan Web dan telah menyelesaikan beberapa proyek.
               </p>
               <a 
                 href="/Januar_Haykal_CV.pdf" 
