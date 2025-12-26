@@ -71,7 +71,7 @@ const Hero = () => {
           >
             <div className="flex justify-center items-center h-full">
             <img 
-              src="/images/formal.png" 
+              src="/images/1766742353532.png" 
               alt="Profile" 
               className="transform transition-all duration-700 hover:scale-105 
                         max-w-[80%] max-h-[50vh] 
